@@ -53,11 +53,6 @@ You can keep the project summary in the README as follows:
 
 This project focuses on measuring the inclination of people's opinions using computational linguistics, Natural Language Processing (NLP), and text analysis. By performing sentiment analysis, it determines whether viewers' sentiments are positive or negative, based on their emotions. 
 
-The analysis extracts valuable insights from comments and opinions posted or shared across websites, social media, and other platforms. These insights help in understanding the public's thoughts on specific ideas, and can be particularly useful for:
-
-
-The project leverages the R framework for implementing sentiment analysis techniques.
-
 ---
 
 This format provides a clear and concise description of the project.
